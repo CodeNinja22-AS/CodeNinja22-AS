@@ -95,20 +95,30 @@ I am particularly interested in applying **automation and AI-assisted techniques
 ## 🧑‍💻 Visual Focus (Security / Systems)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500"/>
 </p>
 
 <p align="center">
-  <em>Defensive security · systems thinking · automation-first mindset</em>
+  <code>defensive_security</code> · 
+  <code>systems_thinking</code> · 
+  <code>automation_first</code>
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 LinkedIn: https://www.linkedin.com/in/abhrant-singh/  
-- 💻 GitHub: https://github.com/CodeNinja22-AS  
-- 📧 Email: abhrantsingh2226@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhrant-singh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/CodeNinja22-AS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhrantsingh2226@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
