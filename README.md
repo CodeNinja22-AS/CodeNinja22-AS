@@ -81,9 +81,20 @@ I am particularly interested in applying **automation and AI-assisted techniques
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeNinja22-AS&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- Contribution Graph (Stable - GitHub Native) -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/CodeNinja22-AS" alt="GitHub Contribution Graph" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja22-AS&layout=compact&theme=tokyonight&hide_border=true)
+<!-- Snake Animation (Self-generated via GitHub Actions) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CodeNinja22-AS/CodeNinja22-AS/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+<!-- Minimal Stats (Optional Fallback - Keep or Remove) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeNinja22-AS&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
