@@ -82,10 +82,6 @@ I am particularly interested in applying **automation and AI-assisted techniques
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeNinja22-AS/CodeNinja22-AS/output/heatmap.svg" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/CodeNinja22-AS/CodeNinja22-AS/output/snake-dark.svg" />
 </p>
 
