@@ -81,14 +81,12 @@ I am particularly interested in applying **automation and AI-assisted techniques
 
 ## 📊 GitHub Activity
 
-<!-- Contribution Graph (Stable - GitHub Native) -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/CodeNinja22-AS" alt="GitHub Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/CodeNinja22-AS/CodeNinja22-AS/output/heatmap.svg" />
 </p>
 
-<!-- Snake Animation (Self-generated via GitHub Actions) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeNinja22-AS/CodeNinja22-AS/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/CodeNinja22-AS/CodeNinja22-AS/output/snake-dark.svg" />
 </p>
 
 <!-- Minimal Stats (Optional Fallback - Keep or Remove) -->
