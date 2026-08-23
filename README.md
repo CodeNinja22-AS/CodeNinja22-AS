@@ -109,7 +109,7 @@ root@codeninja:~# ./display_skills.sh --category=malware-forensics
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/4ADE80/CodeNinja22-AS" alt="GitHub Contribution Graph" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Contribution Graph" />
 </p>
 
 <p align="center">
