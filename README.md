@@ -109,12 +109,7 @@ root@codeninja:~# ./display_skills.sh --category=malware-forensics
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeNinja22-AS&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNinja22-AS&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeNinja22-AS&bg_color=1a1b26&color=4ade80&line=4ade80&point=4ade80&area=true&hide_border=true&hide_title=true" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/4ADE80/CodeNinja22-AS" alt="GitHub Contribution Graph" />
 </p>
 
 <p align="center">
