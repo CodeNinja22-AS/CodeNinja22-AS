@@ -1,9 +1,14 @@
-# Hi, I’m Abhrant Singh 👋
+<h1 align="center">Hi, I’m Abhrant Singh 👋</h1>
 
-Cybersecurity Engineer | Cloud Security · AI-Driven Defense · Systems Resilience  
-Building security systems that remain effective under real-world constraints.
+<p align="center">
+  <a href="https://github.com/CodeNinja22-AS">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Cloud+Security+%7C+AI-Driven+Defense;Designing+systems+that+hold+under+pressure" alt="Typing SVG" />
+  </a>
+</p>
 
-> Designing systems that hold under pressure — not just in theory.
+<p align="center">
+  <em>Building security systems that remain effective under real-world constraints.</em>
+</p>
 
 ---
 
@@ -15,121 +20,104 @@ My approach is rooted in **defensive security and systems thinking** — underst
 
 I focus on applying **automation and AI-assisted techniques** to security operations, log analysis, and threat detection — building solutions that scale reliably beyond manual intervention.
 
-> Currently developing depth across security engineering, cloud security, and research-driven system design.
+---
+
+## ⚙️ Core Engineering Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,go,linux,docker,aws,gcp,git,bash,regex,kubernetes,sqlite&theme=dark" />
+</p>
 
 ---
 
 ## 🔐 Technical Capabilities
 
-### 🟥 Offensive Security & Red Teaming
-- Advanced reconnaissance, attack surface mapping, and exploit chaining  
-- Web, API, and GraphQL exploitation (XSS, SQLi, SSRF, auth bypass)  
-- Payload engineering and automated exploit generation  
-- Active Directory attack simulation and credential-based attacks  
-- Wireless, phishing, and command-and-control (C2) infrastructure  
-- Red team automation and agent-based offensive workflows  
+```bash
+root@codeninja:~# ./display_skills.sh --category=offensive
+[+] Advanced reconnaissance, attack surface mapping, and exploit chaining
+[+] Web, API, and GraphQL exploitation (XSS, SQLi, SSRF, auth bypass)
+[+] Payload engineering and automated exploit generation
+[+] Active Directory attack simulation and credential-based attacks
+[+] Wireless, phishing, and command-and-control (C2) infrastructure
+[+] Red team automation and agent-based offensive workflows
+```
 
-### 🟦 Defensive Security & SOC Engineering
-- SIEM architecture (ELK / OpenSearch), log ingestion, and correlation  
-- Threat detection engineering (HIDS, IDS, anomaly detection systems)  
-- Incident response automation and SOC playbook execution  
-- Threat intelligence aggregation and risk-based alert prioritization  
-- Security analytics dashboards and real-time monitoring systems  
+```bash
+root@codeninja:~# ./display_skills.sh --category=defensive
+[+] SIEM architecture (ELK / OpenSearch), log ingestion, and correlation
+[+] Threat detection engineering (HIDS, IDS, anomaly detection systems)
+[+] Incident response automation and SOC playbook execution
+[+] Threat intelligence aggregation and risk-based alert prioritization
+[+] Security analytics dashboards and real-time monitoring systems
+```
 
-### 🟩 Web & Application Security Engineering
-- OWASP Top 10 vulnerability detection and secure architecture design  
-- API security testing, fuzzing, and abuse-case validation  
-- Client-side security analysis and secret leakage detection  
-- Secure development practices (Docker hardening, isolation models)  
-- Advanced web attack scenarios (cache poisoning, SSRF chains, multi-tenant isolation)  
+```bash
+root@codeninja:~# ./display_skills.sh --category=web-app-security
+[+] OWASP Top 10 vulnerability detection and secure architecture design
+[+] API security testing, fuzzing, and abuse-case validation
+[+] Client-side security analysis and secret leakage detection
+[+] Secure development practices (Docker hardening, isolation models)
+[+] Advanced web attack scenarios (cache poisoning, SSRF chains)
+```
 
-### 🟨 Cloud & DevSecOps Security
-- Cloud security posture management (AWS / GCP / Azure)  
-- IAM risk analysis and identity graph modeling  
-- Infrastructure-as-Code (IaC) security and misconfiguration detection  
-- CI/CD security pipelines (SAST, DAST, secrets scanning)  
-- Container and Kubernetes security (image scanning, runtime controls)  
-- Multi-cloud monitoring, honeypots, and configuration drift detection  
+```bash
+root@codeninja:~# ./display_skills.sh --category=cloud-devsecops
+[+] Cloud security posture management (AWS / GCP / Azure)
+[+] IAM risk analysis and identity graph modeling
+[+] Infrastructure-as-Code (IaC) security and misconfiguration detection
+[+] CI/CD security pipelines (SAST, DAST, secrets scanning)
+[+] Container and Kubernetes security (image scanning, runtime controls)
+```
 
-### 🟪 AI / LLM Security Engineering
-- Prompt injection detection and adversarial input modeling  
-- LLM data leakage prevention and secure AI middleware design  
-- AI-assisted threat detection, phishing analysis, and SOC augmentation  
-- Autonomous security agents and AI-driven offensive tooling  
-- Model security research (poisoning simulation, secure training workflows)  
+<details>
+<summary><b>View More: AI Security, Malware Analysis & Forensics</b></summary>
 
-### ⚫ Malware Analysis & Reverse Engineering
-- Static and dynamic malware analysis workflows  
-- Automated sandboxing and behavioral analysis systems  
-- YARA rule engineering and detection tuning  
-- Binary unpacking, obfuscation handling, and payload analysis  
+```bash
+root@codeninja:~# ./display_skills.sh --category=ai-security
+[+] Prompt injection detection and adversarial input modeling
+[+] LLM data leakage prevention and secure AI middleware design
+[+] AI-assisted threat detection and SOC augmentation
+[+] Autonomous security agents and AI-driven offensive tooling
+```
 
-### 🟫 Digital Forensics & Incident Response
-- Disk, memory, and log-based forensic investigation  
-- Attack timeline reconstruction and evidence validation  
-- Malware incident analysis and ransomware investigation  
-- Automated forensic reporting and investigation dashboards  
-
-### 🟧 Security Automation & Platforms
-- End-to-end security automation pipelines and orchestration systems  
-- Vulnerability management platforms and reporting engines  
-- Policy-as-Code and security governance automation  
-- Cyber range, attack simulation environments, and training platforms  
-- Integrated security systems combining offensive, defensive, and AI components  
-
-### ⚙️ Core Engineering Stack
-- **Languages:** Python (primary), Java, Go, SQL  
-- **Systems:** Linux internals, networking, virtualization, containers  
-- **Tooling:** Kali Linux, Burp Suite, Metasploit, Wireshark, Git  
-- **Practices:** API design, automation scripting, data-driven workflows
+```bash
+root@codeninja:~# ./display_skills.sh --category=malware-forensics
+[+] Static and dynamic malware analysis workflows
+[+] Automated sandboxing and behavioral analysis systems
+[+] Disk, memory, and log-based forensic investigation
+[+] Malware incident analysis and ransomware investigation
+```
+</details>
 
 ---
 
-## 🛠️ What I’m Currently Working On
+## 🛠️ Current Focus & Certifications
 
-- Security automation systems using Python  
-- AI-assisted analysis for large-scale security telemetry  
-- Cloud security architecture and IAM modeling  
-- Research-driven defensive security projects  
+**What I'm Working On:**
+- Security automation systems using Python
+- AI-assisted analysis for large-scale security telemetry
+- Cloud security architecture and IAM modeling
 
----
-
-## 📜 Target Certifications (In Progress / Planned)
-
-- Google Cybersecurity Professional Certificate  
-- AWS Certified Cloud Practitioner  
-- Microsoft Security, Compliance & Identity Fundamentals (SC-900)  
-- Security Blue Team — Blue Team Fundamentals  
-- Splunk Core User (SIEM Fundamentals)  
-- Applied AI / Machine Learning for Security  
+**Target Certifications:**
+- Google Cybersecurity Professional Certificate
+- AWS Certified Cloud Practitioner
+- Microsoft Security, Compliance & Identity Fundamentals (SC-900)
+- Security Blue Team — Blue Team Fundamentals
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity & Stats
 
-<!-- Custom Heatmap (Primary Data View) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeNinja22-AS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeNinja22-AS&theme=tokyonight" alt="GitHub Contribution Graph" />
 </p>
 
-<!-- Minimal Stats (Optional Fallback - Keep or Remove) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeNinja22-AS&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🧑‍💻 Visual Focus (Security / Systems)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="420"/>
-</p>
-
-<p align="center">
-  <code>defensive_security</code> · 
-  <code>systems_thinking</code> · 
-  <code>automation_first</code>
+  <img src="https://streak-stats.demolab.com?user=CodeNinja22-AS&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
@@ -148,6 +136,6 @@ I focus on applying **automation and AI-assisted techniques** to security operat
   </a>
 </p>
 
----
-
-> _Focused on building resilient security systems — not chasing surface-level noise._
+<p align="center">
+  <em>Focused on building resilient security systems — not chasing surface-level noise.</em>
+</p>
