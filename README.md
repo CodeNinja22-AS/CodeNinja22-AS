@@ -110,7 +110,7 @@ I focus on applying **automation and AI-assisted techniques** to security operat
 <!-- Custom Heatmap (Primary Data View) -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeNinja22-AS/CodeNinja22-AS/output/snake-dark.svg" />
+  <img src="https://ghchart.rshah.org/CodeNinja22-AS" alt="GitHub Contribution Graph" />
 </p>
 
 <!-- Minimal Stats (Optional Fallback - Keep or Remove) -->
